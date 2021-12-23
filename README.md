@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jxlara_" target="blank"><img src="https://img.shields.io/twitter/follow/jxlara_?logo=twitter&style=for-the-badge" alt="jxlara_" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node.js, and Wordpress**
+- 🌱 I’m currently learning **React, Node.js, and Webflow**
 
 - 📝 I write articles on [https://medium.com/@Jxlara](https://medium.com/@Jxlara)
 
