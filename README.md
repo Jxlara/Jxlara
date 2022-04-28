@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://medium.com/@Jxlara](https://medium.com/@Jxlara)
 
-- 💬 Ask me about **Python, Django, or Design**
+- 💬 Ask me about **Design, Webflow, or Python**
 
 - 📫 How to reach me **jacob.lara1221@gmail.com**
 
